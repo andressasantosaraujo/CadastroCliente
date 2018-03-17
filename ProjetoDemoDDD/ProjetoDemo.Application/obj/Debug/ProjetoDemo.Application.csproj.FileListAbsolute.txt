@@ -1,0 +1,16 @@
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Application\bin\Debug\ProjetoDemo.Application.dll
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Application\bin\Debug\ProjetoDemo.Application.pdb
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Application\bin\Debug\ProjetoDemo.Domain.dll
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Application\bin\Debug\ProjetoDemo.Domain.pdb
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Application\obj\Debug\ProjetoDemo.Application.csprojResolveAssemblyReference.cache
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Application\obj\Debug\ProjetoDemo.Application.csproj.CoreCompileInputs.cache
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Application\obj\Debug\ProjetoDemo.Application.dll
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Application\obj\Debug\ProjetoDemo.Application.pdb
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Application\bin\Debug\ProjetoDemo.Application.dll
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Application\bin\Debug\ProjetoDemo.Application.pdb
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Application\bin\Debug\ProjetoDemo.Domain.dll
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Application\bin\Debug\ProjetoDemo.Domain.pdb
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Application\obj\Debug\ProjetoDemo.Application.csprojResolveAssemblyReference.cache
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Application\obj\Debug\ProjetoDemo.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Application\obj\Debug\ProjetoDemo.Application.dll
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Application\obj\Debug\ProjetoDemo.Application.pdb

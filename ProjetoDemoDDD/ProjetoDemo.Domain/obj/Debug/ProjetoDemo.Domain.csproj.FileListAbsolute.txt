@@ -1,0 +1,10 @@
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Domain\bin\Debug\ProjetoDemo.Domain.dll
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Domain\bin\Debug\ProjetoDemo.Domain.pdb
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Domain\obj\Debug\ProjetoDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Domain\obj\Debug\ProjetoDemo.Domain.dll
+C:\Users\sfcan\Documents\Andressa\Develop\DDD\ProjetoDemoDDD\ProjetoDemo.Domain\obj\Debug\ProjetoDemo.Domain.pdb
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Domain\bin\Debug\ProjetoDemo.Domain.dll
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Domain\bin\Debug\ProjetoDemo.Domain.pdb
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Domain\obj\Debug\ProjetoDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Domain\obj\Debug\ProjetoDemo.Domain.dll
+C:\Projetos\CadastroCliente\ProjetoDemoDDD\ProjetoDemo.Domain\obj\Debug\ProjetoDemo.Domain.pdb
